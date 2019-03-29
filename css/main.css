@@ -1,0 +1,61 @@
+table {
+  border-collapse: collapse;
+  border: 1px solid #e2e2e2;
+}
+
+th, td {
+  border: 1px solid #e2e2e2;
+  padding: 1.5em;
+}
+
+th {
+  text-align: right;
+}
+
+caption {
+  text-align: center;
+}
+
+td {
+  height: 10em;
+}
+
+.day {
+  text-align: left;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+  border: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.gray {
+  background-color: #ccc;
+  border-color: #666;
+  color: #333;
+  border: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+  border: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-color: #51603f;
+  color: #6b7e54;
+  border: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
